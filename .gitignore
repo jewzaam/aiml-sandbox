@@ -1,3 +1,4 @@
 *.jpg
 bird_or_not/
 training_data/
+.ipynb_checkpoints

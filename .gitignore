@@ -3,3 +3,9 @@ bird_or_not/
 training_data/
 .ipynb_checkpoints
 *.pkl
+openshift/
+ocp-llm-rag-vectorstore/
+flan-t5-large/
+*.pdf
+*.html
+my_collection/
